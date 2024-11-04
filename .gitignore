@@ -1,0 +1,15 @@
+# Compiled files
+*.o
+*.out
+zipf
+
+# Output files
+*.txt
+*.png
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build directory
+build/
